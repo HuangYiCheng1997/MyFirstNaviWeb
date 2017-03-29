@@ -124,6 +124,7 @@ canvas {
     box-sizing: border-box;
     background-color: whitesmoke;
     height: 260px;
+    padding-top: 10px;
 }
 .navi ul li div {
     width: 80%;
