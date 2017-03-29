@@ -70,9 +70,7 @@ canvas {
 }
 .content .content-name h1{
     color: white;
-    position: absolute;
-    left: 33%;
-    top: 25%;
+    line-height: 71px;
 }
 /*-----------------搜索框开始-------------------*/
 .content .content-search{
