@@ -80,6 +80,10 @@ canvas {
     margin: 0 auto;
     text-align: center;
 }
+
+.content .content-search select form{
+    height: 35px;
+}
 .content .content-search select{
     width: 10%;
     height: 39px;
